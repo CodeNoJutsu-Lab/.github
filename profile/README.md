@@ -4,16 +4,6 @@
 <i>Code without limits. Build without borders.</i>
 </div>
 
-<div align="center">
-	
-	<a href="https://discord.gg/7cqv436uks" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-	</a>
-	<a href="https://www.youtube.com/@codenojutsu-lab" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-	</a>
-</div>
-
 A lifelong computer science lab exploring every domain — web, mobile, systems, cloud, AI, and beyond.
 
 ## 🧠 About
@@ -42,3 +32,7 @@ CodeNoJutsu Lab is designed to evolve over time into:
 > Long-term: Open the lab to others and build together.
 
 ---
+
+## Connect with us:
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codenojutsu-lab) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/7cqv436uks)
